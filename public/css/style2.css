@@ -2,8 +2,34 @@
 h1{
   font-family: 'sans-serif';
   text-align: center;
-  color: fuchsia;
+  color: darkblue;
+  font-size: 50px;
 }
+
+body{
+  text-align: center;
+  background-image: url("http://thumbs.dreamstime.com/x/christmas-gifts-background-27509696.jpg");
+}
+
+form{
+  color: darkblue;
+  font-size: 30px;
+
+}
+
+
+div{
+  border: solid 15px;
+  border-radius: 16%;
+  padding: 20px;
+  color: darkblue;
+  margin: auto;
+  max-width: 700px;
+ background: white;
+}
+
+
+
 
 /* {
   font: strong;
