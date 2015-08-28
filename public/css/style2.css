@@ -1,0 +1,61 @@
+
+h1{
+  font-family: 'sans-serif';
+  text-align: center;
+  color: darkblue;
+  font-size: 50px;
+}
+
+body{
+  text-align: center;
+  background-image: url("http://thumbs.dreamstime.com/x/christmas-gifts-background-27509696.jpg");
+}
+
+form{
+  color: darkblue;
+  font-size: 30px;
+
+}
+
+
+div{
+  border: solid 15px;
+  border-radius: 16%;
+  padding: 20px;
+  color: darkblue;
+  margin: auto;
+  max-width: 700px;
+ background: white;
+}
+
+
+
+
+/* {
+  font: strong;
+  text-align: center;
+}
+
+form{
+  width: 33%;
+  padding: 10px;
+  margin-left: 33%;
+  margin-right: 33%;
+  margin-bottom: 5%;
+}
+
+form{
+
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+label, input, option{
+  margin-top: 2%;
+  margin-bottom: 2%;
+
+}
+img{
+  margin-left: 31%;
+  margin-right: 33%;
+} */
